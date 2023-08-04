@@ -1,0 +1,15 @@
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/the-bug.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/edit_cache.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/rebuild_cache.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/list_install_components.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/install.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/install/local.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/CMakeFiles/install/strip.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/flecs.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/flecs_static.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/edit_cache.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/rebuild_cache.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/list_install_components.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/install.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/install/local.dir
+C:/Users/sawye/Dev/flecs-destruct-issue/build/flecs/CMakeFiles/install/strip.dir

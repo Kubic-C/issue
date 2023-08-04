@@ -1,0 +1,117 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"flecs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 76,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 89,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : "flecs/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"flecs/libflecs.dll.a"
+			],
+			"targetId" : "flecs::@4dc7a453a4735c17d8a0",
+			"targetIndex" : 0,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"flecs/libflecs.dll"
+			],
+			"targetId" : "flecs::@4dc7a453a4735c17d8a0",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"flecs/libflecs_static.a"
+			],
+			"targetId" : "flecs_static::@4dc7a453a4735c17d8a0",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/flecs",
+			"exportName" : "flecs-export",
+			"exportTargets" : 
+			[
+				{
+					"id" : "flecs::@4dc7a453a4735c17d8a0",
+					"index" : 0
+				},
+				{
+					"id" : "flecs_static::@4dc7a453a4735c17d8a0",
+					"index" : 1
+				}
+			],
+			"paths" : 
+			[
+				"flecs/CMakeFiles/Export/dd2a5a6f66f0d12b1be0feafeb08c769/flecs-config.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "flecs",
+		"source" : "flecs"
+	}
+}
